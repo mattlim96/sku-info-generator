@@ -1,3 +1,5 @@
+/* forked from https://github.com/bradjasper/ImportJSON */
+
 function ImportJSON(url, query, options) {
   return ImportJSONAdvanced(url, query, options, includeXPath_, defaultTransform_);
 }
