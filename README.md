@@ -8,3 +8,5 @@ Built the SKU Info Generator on Google Sheets, utilising Google Apps Script for 
 Scripts were deployed on Google Cloud Platform and distributed via making a copy of the SKU Info Generator Google Sheet.
 
 View the tool [here](https://docs.google.com/spreadsheets/d/14wz4TupMTORjQtk5QUA6pfkCG9u1cVCpYRvyqfFxWNk/edit?usp=sharing)!
+
+Video demonstration of tool coming soon...
