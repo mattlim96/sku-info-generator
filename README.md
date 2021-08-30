@@ -20,10 +20,8 @@ View the tool [here](https://docs.google.com/spreadsheets/d/14wz4TupMTORjQtk5QUA
 
 The SKU Info Generator can scrape information at Product and Model Levels. The following explains the functions of each Googel Sheet tab:
 
-Tab Name | Function
------------- | -------------
-PRODUCT LEVEL (Formula) | Scrapes Product Level information via a customised function created in Apps Script, it follows the behaviour of a Google Sheet formula and refreshes the data periodically.
-PRODUCT LEVEL (Button) | Scrapes Product Level information at scale via Apps Script.
-MODEL LEVEL (Button) | Scrapes Model Level information at scale via Apps Script.
-
-Video demonstration of tool coming soon...
+Tab Name | Function | Video Demo
+------------ | -------------  | -------------
+PRODUCT LEVEL (Formula) | Scrapes Product Level information via a customised function created in Apps Script, it follows the behaviour of a Google Sheet formula and refreshes the data periodically. |
+PRODUCT LEVEL (Button) | Scrapes Product Level information at scale via Apps Script. |
+MODEL LEVEL (Button) | Scrapes Model Level information at scale via Apps Script. |
