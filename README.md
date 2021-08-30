@@ -1,12 +1,18 @@
-# Description
+# SKU Info Generator
 
-## Problem:
+## About The Project
+
+### Problem
 Colleagues were unable to retrieve current prices at scale because the latest data available from Buisness Intelligence team's database is up to the previous day's data.
 
-## Solution:
+### Solution
 Built the SKU Info Generator on Google Sheets, utilising Google Apps Script for web scraping and data manipulation.
 Scripts were deployed on Google Cloud Platform and distributed via making a copy of the SKU Info Generator Google Sheet.
 
-View the tool [here](https://docs.google.com/spreadsheets/d/14wz4TupMTORjQtk5QUA6pfkCG9u1cVCpYRvyqfFxWNk/edit?usp=sharing)!
+### Methodology
+
+### Demonstration
 
 Video demonstration of tool coming soon...
+
+View the tool [here](https://docs.google.com/spreadsheets/d/14wz4TupMTORjQtk5QUA6pfkCG9u1cVCpYRvyqfFxWNk/edit?usp=sharing)!
