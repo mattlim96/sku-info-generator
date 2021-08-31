@@ -22,6 +22,6 @@ The SKU Info Generator can scrape information at Product and Model Levels. The f
 
 Tab Name | Function | Video Demo
 ------------ | -------------  | -------------
-PRODUCT LEVEL (Formula) | Scrapes Product Level information via `ImportJson()` function created in Apps Script, it follows the behaviour of a Google Sheet formula and refreshes the data periodically. |
+PRODUCT LEVEL (Formula) | Scrapes Product Level information via `ImportJson()` function created in Apps Script, it follows the behaviour of a Google Sheet formula and refreshes the data periodically. | [Click Here](https://drive.google.com/file/d/1zxoYni4NvsHaF8-AErUem9Wm_-RsNeiV/view?usp=sharing)
 PRODUCT LEVEL (Button) | Scrapes Product Level information at scale via Apps Script. |
 MODEL LEVEL (Button) | Scrapes Model Level information at scale via Apps Script. |
