@@ -16,7 +16,7 @@ The tool utilises Google Apps Script for web scraping and data manipulation, scr
 
 ## Tool Description
 
-View the tool [here](https://docs.google.com/spreadsheets/d/14wz4TupMTORjQtk5QUA6pfkCG9u1cVCpYRvyqfFxWNk/edit?usp=sharing) to better understand the following explanation.
+View the Google Sheet tool [here](https://docs.google.com/spreadsheets/d/14wz4TupMTORjQtk5QUA6pfkCG9u1cVCpYRvyqfFxWNk/edit?usp=sharing) to better understand the following explanation.
 
 The SKU Info Generator can scrape information at Product and Model Levels. The following explains the functions of each Google Sheet tab:
 
